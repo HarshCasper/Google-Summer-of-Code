@@ -1,0 +1,21 @@
+.language {
+  display: flex;
+  transition: transform 0.25s ease;
+}
+
+.language:hover {
+  /* transform: scale(1.2); */
+  cursor: pointer;
+}
+
+.language .icon {
+  fill: var(--textNormal);
+  margin-right: 5px;
+}
+.language span {
+  color: var(--textNormal);
+}
+
+.language-focused {
+  transform: scale(1.1);
+}
