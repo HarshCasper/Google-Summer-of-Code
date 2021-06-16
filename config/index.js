@@ -5,7 +5,7 @@ const site = {
   siteUrl: 'https://gsoc.harshcasper.com',
   twitter: 'harsh_casper',
   github: 'harshcasper',
-  googleTrackingId: 'UA - 167005401 - 1',
+  googleTrackingId: 'XXXXXX',
   lang: 'en',
   disqusShortName: 'gsoc-harshcasper-com',
   displayTranslations: true,

@@ -97,8 +97,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `GSoC 21 @ MetaCall`,
+        short_name: `GSoC '21`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,
